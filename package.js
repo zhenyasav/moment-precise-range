@@ -12,6 +12,6 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.use('momentjs:moment');
+  api.use('momentjs:moment@2.10.6');
   api.addFiles('moment-precise-range/readable-range.js');
 });
