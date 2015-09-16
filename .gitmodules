@@ -1,0 +1,3 @@
+[submodule "moment-precise-range"]
+	path = moment-precise-range
+	url = git@github.com:codebox/moment-precise-range.git
